@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0rsN9zt3H7uJ+2aVPiwkkr6Gh4qzJgVLXWa0L/tVv1ZO7ZiG6i27rLs8H7Ai5CKdTmzTpvlk9KZtFy7K3dY3uQ==",
+  "success": true,
+  "projectFilePath": "D:\\RESI\\03-Sample\\DotnetCore\\git\\mygittest\\mygittest\\mygittest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\09264\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
